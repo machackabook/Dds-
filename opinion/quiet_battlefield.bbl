@@ -1,0 +1,151 @@
+\begin{thebibliography}{20}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Ada Lovelace Institute} et~al.(2021){Ada Lovelace Institute}, {AI Now
+  Institute}, and {Open Government Partnership}]{adalovace2021}
+{Ada Lovelace Institute}, {AI Now Institute}, and {Open Government
+  Partnership}.
+\newblock Algorithmic accountability for the public sector.
+\newblock Technical report, Ada Lovelace Institute, 2021.
+\newblock URL
+  \url{https://www.opengovpartnership.org/documents/algorithmic-accountability-public-sector/}.
+
+\bibitem[Angelova et~al.(2023)Angelova, Dobbie, and Yang]{angelova2023}
+Victoria Angelova, Will~S. Dobbie, and Crystal~S. Yang.
+\newblock Algorithmic recommendations and human discretion.
+\newblock Working Paper 31747, National Bureau of Economic Research, 2023.
+
+\bibitem[Barocas and Selbst(2016)]{barocas2016}
+Solon Barocas and Andrew~D. Selbst.
+\newblock Big data's disparate impact.
+\newblock \emph{California Law Review}, 104\penalty0 (3):\penalty0 671--732,
+  2016.
+
+\bibitem[Bellanova et~al.(2021)Bellanova, Irion, {Lindskov Jacobsen}, Ragazzi,
+  Saugmann, and Suchman]{bellanova2021}
+Rocco Bellanova, Kristina Irion, Katja {Lindskov Jacobsen}, Francesco Ragazzi,
+  Rune Saugmann, and Lucy Suchman.
+\newblock Toward a critique of algorithmic violence.
+\newblock \emph{International Political Sociology}, 15\penalty0 (1):\penalty0
+  121--150, 2021.
+\newblock \doi{10.1093/ips/olab003}.
+
+\bibitem[Benita et~al.(2026)Benita, Elad, and Keshet]{benita2026}
+Roi Benita, Michael Elad, and Joseph Keshet.
+\newblock Analyzing and guiding zero-shot posterior sampling in diffusion
+  models.
+\newblock \emph{arXiv preprint}, 2026.
+\newblock arXiv:2602.07715.
+
+\bibitem[Bloch-Wehba(2022)]{blochwehba2022}
+Hannah Bloch-Wehba.
+\newblock Algorithmic governance from the bottom up.
+\newblock \emph{SSRN Electronic Journal}, 2022.
+\newblock \doi{10.2139/ssrn.4054640}.
+\newblock Available at SSRN: https://ssrn.com/abstract=4054640.
+
+\bibitem[Brown et~al.(2023)Brown, Chouldechova, Putnam-Hornstein, Tomlinson,
+  and Vaithianathan]{acm2023}
+Anna Brown, Alexandra Chouldechova, Emily Putnam-Hornstein, Andrew Tomlinson,
+  and Rhema Vaithianathan.
+\newblock Algorithmic harms in child welfare: Uncertainties in practice,
+  measurement, and accountability.
+\newblock \emph{ACM Journal on Responsible Computing}, 1\penalty0 (1), 2023.
+\newblock \doi{10.1145/3616473}.
+
+\bibitem[Busuioc(2021)]{busuioc2020}
+Madalina Busuioc.
+\newblock Accountable artificial intelligence: Holding algorithms to account.
+\newblock \emph{Public Administration Review}, 81\penalty0 (5):\penalty0
+  825--836, 2021.
+\newblock \doi{10.1111/puar.13293}.
+
+\bibitem[Corbett-Davies and Goel(2018)]{corbett2018}
+Sam Corbett-Davies and Sharad Goel.
+\newblock The measure and mismeasure of fairness: A critical review of fair
+  machine learning.
+\newblock \emph{arXiv preprint}, 2018.
+\newblock arXiv:1808.00023.
+
+\bibitem[Elad(2010)]{elad2010}
+Michael Elad.
+\newblock \emph{Sparse and Redundant Representations: From Theory to
+  Applications in Signal and Image Processing}.
+\newblock Springer, New York, 2010.
+\newblock \doi{10.1007/978-1-4419-7011-4}.
+
+\bibitem[{eScholarship.org}(2025)]{escholarship2025}
+{eScholarship.org}.
+\newblock The epistemic injustice of algorithmic family policing.
+\newblock eScholarship, 2025.
+
+\bibitem[{Florida Law Review}(2023)]{flalawreview2023}
+{Florida Law Review}.
+\newblock How premature predictive policing can lead to a self-fulfilling
+  prophecy of juvenile delinquency.
+\newblock \emph{Florida Law Review}, 2023.
+
+\bibitem[Friedler et~al.(2021)Friedler, Scheidegger, and
+  Venkatasubramanian]{friedler2021}
+Sorelle~A. Friedler, Carlos Scheidegger, and Suresh Venkatasubramanian.
+\newblock The (im)possibility of fairness: Different value systems require
+  different mechanisms for fair decision making.
+\newblock \emph{Communications of the ACM}, 64\penalty0 (4):\penalty0 136--143,
+  2021.
+\newblock \doi{10.1145/3433949}.
+
+\bibitem[Galtung(1969)]{galtung1969}
+Johan Galtung.
+\newblock Violence, peace, and peace research.
+\newblock \emph{Journal of Peace Research}, 6\penalty0 (3):\penalty0 167--191,
+  1969.
+\newblock \doi{10.1177/002234336900600301}.
+
+\bibitem[Hume(1748)]{hume1748}
+David Hume.
+\newblock \emph{An Enquiry Concerning Human Understanding}.
+\newblock A. Millar, London, 1748.
+
+\bibitem[Kleinberg et~al.(2018)Kleinberg, Lakkaraju, Leskovec, Ludwig, and
+  Mullainathan]{kleinberg2018}
+Jon Kleinberg, Himabindu Lakkaraju, Jure Leskovec, Jens Ludwig, and Sendhil
+  Mullainathan.
+\newblock Human decisions and machine predictions.
+\newblock \emph{Quarterly Journal of Economics}, 133\penalty0 (1):\penalty0
+  237--293, 2018.
+\newblock \doi{10.1093/qje/qjx032}.
+
+\bibitem[Raghavan et~al.(2020)Raghavan, Barocas, Kleinberg, and
+  Levy]{raghavan2020}
+Manish Raghavan, Solon Barocas, Jon Kleinberg, and Karen Levy.
+\newblock Mitigating bias in algorithmic hiring: Evaluating claims and
+  practices.
+\newblock In \emph{Proceedings of the ACM Conference on Fairness,
+  Accountability, and Transparency}, pages 469--481, 2020.
+\newblock \doi{10.1145/3351095.3372828}.
+
+\bibitem[Santoni~de Sio and van~den Hoven(2018)]{santoni2018}
+Filippo Santoni~de Sio and Jeroen van~den Hoven.
+\newblock Meaningful human control over autonomous systems: A philosophical
+  account.
+\newblock \emph{Frontiers in Robotics and AI}, 5, 2018.
+\newblock \doi{10.3389/frobt.2018.00015}.
+
+\bibitem[Scott(1998)]{scott1998}
+James~C. Scott.
+\newblock \emph{Seeing Like a State: How Certain Schemes to Improve the Human
+  Condition Have Failed}.
+\newblock Yale University Press, New Haven, 1998.
+
+\bibitem[Taddeo and Blanchard(2022)]{taddeo2022}
+Mariarosaria Taddeo and Alexander Blanchard.
+\newblock A comparative analysis of the definitions of autonomous weapons
+  systems.
+\newblock \emph{Science and Engineering Ethics}, 28\penalty0 (5), 2022.
+\newblock \doi{10.1007/s11948-022-00392-3}.
+
+\end{thebibliography}

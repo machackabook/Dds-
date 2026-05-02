@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Algorithmic Harm</title>
+
+<style>
+*{box-sizing:border-box;}
+
+body{
+margin:0;
+background:#000;
+color:#7cff7c;
+font-family:monospace;
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+min-height:100vh;
+padding:16px;
+}
+
+/* title */
+.title{
+font-size:clamp(12px,3vw,15px);
+letter-spacing:0.2em;
+text-transform:uppercase;
+color:#00ff88;
+text-shadow:0 0 8px #00ff66;
+margin-bottom:10px;
+opacity:0.85;
+}
+
+/* CRT frame */
+.screen{
+position:relative;
+padding:16px;
+border:2px solid #0f0;
+background:#001000;
+box-shadow:
+0 0 10px #0f0,
+inset 0 0 40px rgba(0,255,0,0.12);
+}
+
+.screen::after{
+content:"";
+position:absolute;
+inset:0;
+pointer-events:none;
+background:repeating-linear-gradient(
+to bottom,
+rgba(0,255,0,0.04) 0px,
+rgba(0,255,0,0.04) 1px,
+transparent 2px,
+transparent 4px
+);
+}
+
+/* porthole */
+#viz{
+width:min(420px,82vw);
+height:min(420px,82vw);
+border-radius:50%;
+background:#000;
+border:2px solid rgba(0,255,0,0.5);
+box-shadow:
+0 0 30px rgba(0,255,120,0.25) inset,
+0 0 12px rgba(0,255,0,0.6);
+display:block;
+}
+
+/* controls */
+.controls{
+margin-top:14px;
+display:flex;
+gap:10px;
+}
+
+button{
+background:#001400;
+border:1px solid #00ff00;
+color:#7cff7c;
+padding:8px 14px;
+cursor:pointer;
+}
+
+/* subtitles */
+.subs{
+position:fixed;
+bottom:10px;
+left:0;
+right:0;
+margin:auto;
+
+width:min(520px,92vw);
+
+padding:6px 12px;
+min-height:2.6em;
+max-height:4.5em;
+
+display:flex;
+align-items:center;
+justify-content:center;
+
+text-align:center;
+font-size:clamp(13px,3.8vw,16px);
+line-height:1.35;
+
+color:#aaffaa;
+text-shadow:0 0 6px #00ff66;
+
+background:rgba(0,20,0,0.35);
+border:1px solid rgba(0,255,0,0.2);
+border-radius:6px;
+
+pointer-events:none;
+
+transform-origin:center;
+transition:transform 0.08s ease, opacity 0.15s ease;
+}
+</style>
+</head>
+
+<body>
+
+<div class="title">Algorithmic Harm</div>
+
+<div class="screen">
+<canvas id="viz"></canvas>
+</div>
+
+<div class="controls">
+<button id="play">Play</button>
+</div>
+
+<div id="subs" class="subs"></div>
+
+<audio id="audio">
+<source src="Why_Spreadsheets_are_Deadlier_than_Drones.mp3">
+<track kind="subtitles" src="Why_Spreadsheets_are_Deadlier_than_Drones.vtt" default>
+</audio>
+
+<script>
+
+/* AUDIO */
+
+const audio = document.getElementById("audio")
+const play  = document.getElementById("play")
+const subs  = document.getElementById("subs")
+
+let audioCtx, analyser, data
+
+function initAudio(){
+  if(audioCtx) return
+  audioCtx = new AudioContext()
+  analyser  = audioCtx.createAnalyser()
+  analyser.fftSize = 2048
+
+  const src = audioCtx.createMediaElementSource(audio)
+  src.connect(analyser)
+  analyser.connect(audioCtx.destination)
+
+  data = new Uint8Array(analyser.frequencyBinCount)
+}
+
+/* SUBTITLES */
+
+audio.onloadedmetadata = ()=>{
+  const t = audio.textTracks[0]
+  t.mode = "hidden"
+  t.oncuechange = ()=>{
+    const cue = t.activeCues[0]
+    subs.textContent = cue ? cue.text : ""
+  }
+}
+
+/* PLAY */
+
+play.onclick = async ()=>{
+  initAudio()
+  if(audioCtx.state === "suspended") await audioCtx.resume()
+
+  if(audio.paused){
+    audio.play()
+    play.textContent = "Pause"
+  } else {
+    audio.pause()
+    play.textContent = "Play"
+  }
+}
+
+/* CANVAS */
+
+const canvas = document.getElementById("viz")
+const ctx    = canvas.getContext("2d")
+
+const size = 420
+canvas.width  = size
+canvas.height = size
+
+/* Phase-window Lissajous state */
+let phaseCursor = 0
+let smoothBass = 0, smoothMid = 0, smoothHigh = 0
+let frameT = 0
+
+function drawLissajous(){
+  const w = size, h = size
+
+  if(analyser && data){
+    analyser.getByteFrequencyData(data)
+
+    let bass = 0, mid = 0, high = 0
+    for(let i = 0;   i < 48;  i++) bass += data[i]
+    for(let i = 48;  i < 220; i++) mid  += data[i]
+    for(let i = 220; i < 640; i++) high += data[i]
+
+    bass /= 48  * 255
+    mid  /= 172 * 255
+    high /= 420 * 255
+
+    smoothBass += (bass - smoothBass) * 0.08
+    smoothMid  += (mid  - smoothMid)  * 0.06
+    smoothHigh += (high - smoothHigh) * 0.05
+  }
+
+  phaseCursor += 0.018 + smoothBass * 0.035
+
+  const cx = w / 2 + Math.sin(frameT * 0.00021) * 18
+  const cy = h / 2 + Math.cos(frameT * 0.00017) * 14
+
+  const scale = Math.min(w, h) * (0.23 + smoothBass * 0.08)
+
+  const a     = 3 + smoothMid  * 1.2
+  const b     = 2 + smoothHigh * 1.4
+  const phase = phaseCursor + smoothBass * Math.PI
+
+  ctx.save()
+  ctx.translate(cx, cy)
+  ctx.rotate(Math.sin(frameT * 0.00013) * 0.18)
+
+  ctx.shadowBlur  = 18 + smoothBass * 26
+  ctx.shadowColor = "#00ff66"
+  ctx.lineWidth   = 1.2 + smoothBass * 2.4
+  ctx.strokeStyle = `rgba(120,255,145,${0.55 + smoothBass * 0.38})`
+
+  ctx.beginPath()
+
+  const points     = 1000
+  const windowSize = Math.PI * 2.2
+
+  for(let i = 0; i <= points; i++){
+    const p     = i / points
+    const theta = phase + p * windowSize
+
+    const wobble =
+      Math.sin(theta * (17 + smoothHigh * 20) + frameT * 0.002) *
+      smoothHigh * 10
+
+    const x = Math.sin(a * theta + smoothBass * 1.5) * scale + wobble
+    const y = Math.sin(b * theta + smoothMid  * 1.2) * scale * (0.78 + smoothMid * 0.18)
+
+    if(i === 0) ctx.moveTo(x, y)
+    else        ctx.lineTo(x, y)
+  }
+
+  ctx.stroke()
+
+  /* ghost overlay */
+  ctx.shadowBlur  = 5
+  ctx.lineWidth   = 0.7
+  ctx.strokeStyle = "rgba(210,255,210,0.18)"
+  ctx.stroke()
+
+  ctx.restore()
+}
+
+function loop(){
+  frameT++
+
+  /* phosphor fade */
+  ctx.fillStyle = "rgba(0,5,0,0.18)"
+  ctx.fillRect(0, 0, size, size)
+
+  drawLissajous()
+
+  /* subtitle pulse */
+  subs.style.transform = `scaleY(${1 + smoothBass * 0.05})`
+  subs.style.opacity   = `${0.7 + smoothBass * 0.3}`
+
+  requestAnimationFrame(loop)
+}
+
+loop()
+
+</script>
+</body>
+</html>

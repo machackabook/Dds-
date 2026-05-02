@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: quiet_battlefield.aux
+The style file: plainnat.bst
+Database file #1: quiet_battlefield.bib
+You've used 20 entries,
+            2773 wiz_defined-function locations,
+            718 strings with 8395 characters,
+and the built_in function-call counts, 8509 in all, are:
+= -- 766
+> -- 476
+< -- 14
++ -- 164
+- -- 144
+* -- 664
+:= -- 1361
+add.period$ -- 75
+call.type$ -- 20
+change.case$ -- 106
+chr.to.int$ -- 20
+cite$ -- 40
+duplicate$ -- 399
+empty$ -- 688
+format.name$ -- 172
+if$ -- 1758
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 20
+newline$ -- 123
+num.names$ -- 80
+pop$ -- 197
+preamble$ -- 1
+purify$ -- 88
+quote$ -- 0
+skip$ -- 306
+stack$ -- 0
+substring$ -- 222
+swap$ -- 29
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 205
+warning$ -- 0
+while$ -- 75
+width$ -- 0
+write$ -- 292

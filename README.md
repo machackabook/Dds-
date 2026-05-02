@@ -1,5 +1,7 @@
 # Antivenom
 
+[The Quiet Battlefield](https://standardgalactic.github.io/antivenom/quiet_battlefield.pdf)
+
 [Trajectory and Residue](https://standardgalactic.github.io/antivenom/projects/constraint_closure-5.pdf) — *On Bullshit Jobs*
 
 * [Audio Overview](https://standardgalactic.github.io/antivenom/projects/?track=proof)

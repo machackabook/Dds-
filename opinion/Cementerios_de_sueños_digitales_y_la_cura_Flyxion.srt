@@ -1,0 +1,1344 @@
+1
+00:00:00,000 --> 00:00:04,660
+Hay algo que de verdad me vuela la cabeza cada vez que me meto a redes sociales.
+
+2
+00:00:05,100 --> 00:00:06,040
+A ver, cuéntame.
+
+3
+00:00:06,040 --> 00:00:11,540
+Me topo con estos perfiles o páginas con nombres súper aspiracionales.
+
+4
+00:00:11,700 --> 00:00:16,540
+Ya sabes, tipo viajero incansable, poeta de asfalto.
+
+5
+00:00:16,860 --> 00:00:18,020
+¿Maestro parrillero?
+
+6
+00:00:18,160 --> 00:00:20,320
+Ese, maestro parrillero.
+
+7
+00:00:20,640 --> 00:00:22,000
+Y me da curiosidad.
+
+8
+00:00:22,280 --> 00:00:25,420
+Le doy clic y, este, nada.
+
+9
+00:00:25,880 --> 00:00:29,900
+Un par de fotos de mala calidad, cero publicaciones en meses.
+
+10
+00:00:30,480 --> 00:00:32,920
+Se sienten como ciudades fantasma.
+
+11
+00:00:33,360 --> 00:00:34,420
+Sí, totalmente.
+
+12
+00:00:34,760 --> 00:00:36,980
+No es el spam de siempre.
+
+13
+00:00:37,260 --> 00:00:38,120
+Es otra cosa.
+
+14
+00:00:38,600 --> 00:00:42,500
+Es como un cementerio de sueños digitales.
+
+15
+00:00:42,840 --> 00:00:44,440
+Esa es la metáfora perfecta.
+
+16
+00:00:44,760 --> 00:00:46,340
+Un cementerio de sueños.
+
+17
+00:00:46,980 --> 00:00:52,640
+Son como locales comerciales con un letrero increíble que, pues, nunca llegaron a abrir.
+
+18
+00:00:53,020 --> 00:00:53,660
+Exacto.
+
+19
+00:00:53,980 --> 00:00:59,140
+Y lo que es interesante y el punto central de las fuentes que compartieron con nosotros
+
+20
+00:00:59,140 --> 00:01:05,260
+de un pensador que firma como Flicción es que esto no es culpa de la gente.
+
+21
+00:01:06,020 --> 00:01:06,280
+Ah, no.
+
+22
+00:01:06,680 --> 00:01:07,200
+No.
+
+23
+00:01:07,840 --> 00:01:10,800
+No es que seamos flojos o inconstantes.
+
+24
+00:01:11,420 --> 00:01:18,220
+Es una consecuencia directa, casi inevitable, de cómo están construidas estas plataformas.
+
+25
+00:01:18,220 --> 00:01:20,300
+Justo ahí quería llegar.
+
+26
+00:01:20,700 --> 00:01:25,160
+Porque hoy no vamos a clavarnos en si el contenido es bueno o malo.
+
+27
+00:01:25,360 --> 00:01:26,020
+No, para nada.
+
+28
+00:01:26,440 --> 00:01:30,540
+Vamos a meternos a las tuberías, a la arquitectura del sistema.
+
+29
+00:01:30,540 --> 00:01:37,160
+La misión es entender por qué estas plataformas que están obsesionadas con nuestra interacción,
+
+30
+00:01:37,540 --> 00:01:38,820
+el famoso engagement,
+
+31
+00:01:39,080 --> 00:01:40,220
+el bendito engagement,
+
+32
+00:01:40,700 --> 00:01:42,560
+terminan generando este vacío.
+
+33
+00:01:43,320 --> 00:01:47,860
+Y para eso, vamos a usar un concepto de las fuentes que me pareció clave.
+
+34
+00:01:48,540 --> 00:01:50,480
+El escape semántico.
+
+35
+00:01:50,480 --> 00:01:57,160
+Y agárrense, porque una vez que entendamos el diagnóstico, vamos a explorar la cura que proponen.
+
+36
+00:01:57,660 --> 00:01:59,160
+Y no es una aspirina, ¿eh?
+
+37
+00:01:59,440 --> 00:02:03,720
+Es una reinvención total de cómo se podría construir un espacio digital.
+
+38
+00:02:04,440 --> 00:02:05,100
+Suena intenso.
+
+39
+00:02:05,400 --> 00:02:08,800
+Vamos a empezar con algo que todos hemos visto en nuestras redes.
+
+40
+00:02:09,320 --> 00:02:14,820
+Y vamos a terminar hablando de cómo evitar que una inteligencia artificial se salga de control.
+
+41
+00:02:15,420 --> 00:02:17,780
+El viaje es intenso.
+
+42
+00:02:17,780 --> 00:02:20,680
+Venga, vamos a desglosar esto.
+
+43
+00:02:21,320 --> 00:02:25,240
+Empecemos por el diagnóstico, porque todo se siente tan hueco.
+
+44
+00:02:25,900 --> 00:02:31,240
+Flaxion dice que estas páginas aspiracionales son la prueba del delito.
+
+45
+00:02:31,500 --> 00:02:32,760
+Son los artefactos, ¿sí?
+
+46
+00:02:33,500 --> 00:02:38,080
+Artefactos de un sistema que prefiere que le demos clic a cualquier cosa
+
+47
+00:02:38,080 --> 00:02:41,620
+antes de que construyamos algo con significado real.
+
+48
+00:02:41,620 --> 00:02:47,160
+Lo fascinante aquí es cómo las fuentes describen un cambio radical en nuestra forma de participar.
+
+49
+00:02:47,780 --> 00:02:49,740
+Piensa en los foros o blogs de antes.
+
+50
+00:02:50,420 --> 00:02:52,440
+El objetivo era la expresión.
+
+51
+00:02:52,740 --> 00:02:54,660
+Claro, compartir lo que ya eras.
+
+52
+00:02:55,060 --> 00:02:55,580
+Exacto.
+
+53
+00:02:56,100 --> 00:02:58,660
+Tú ya eras, no sé, un aficionado a la astronomía.
+
+54
+00:02:58,880 --> 00:03:02,380
+Y creabas un espacio para compartir esa identidad que ya tenías.
+
+55
+00:03:03,080 --> 00:03:05,160
+Ahora, el modelo es de sondeo.
+
+56
+00:03:05,320 --> 00:03:05,880
+Sondeo.
+
+57
+00:03:06,120 --> 00:03:07,900
+Como una encuesta o algo así.
+
+58
+00:03:07,900 --> 00:03:18,200
+No creas la página Maestro Parrillero para decir, este soy yo, sino para preguntarle en voz baja al algoritmo.
+
+59
+00:03:18,680 --> 00:03:22,660
+Oye, si publico fotos de carne asada, ¿me vas a hacer caso?
+
+60
+00:03:23,080 --> 00:03:24,440
+¿La gente va a reaccionar?
+
+61
+00:03:24,700 --> 00:03:25,300
+Justo.
+
+62
+00:03:25,620 --> 00:03:30,980
+Es un acto de exploración para ver qué funciona, no una declaración de quién eres.
+
+63
+00:03:31,680 --> 00:03:35,300
+Estás sondeando al sistema en busca de una recompensa.
+
+64
+00:03:35,300 --> 00:03:40,300
+Claro, y a eso le sumas lo que las fuentes llaman el fracaso sin costo.
+
+65
+00:03:41,200 --> 00:03:42,800
+Crear la página es gratis.
+
+66
+00:03:42,940 --> 00:03:43,380
+Gratis.
+
+67
+00:03:43,580 --> 00:03:45,620
+Y dejarla morir no te cuesta nada.
+
+68
+00:03:46,200 --> 00:03:48,760
+No hay una mancha en tu currículum digital.
+
+69
+00:03:49,100 --> 00:03:49,640
+Para nada.
+
+70
+00:03:49,900 --> 00:04:00,520
+Es como si pudieras abrir 10 negocios en la calle principal, y si no funcionan, simplemente desaparecen al día siguiente sin dejar deudas ni mala reputación.
+
+71
+00:04:01,000 --> 00:04:03,220
+Es una analogía brillante que usan.
+
+72
+00:04:03,220 --> 00:04:05,880
+Es un sistema sin termodinámica.
+
+73
+00:04:06,440 --> 00:04:07,860
+No hay disipación de energía.
+
+74
+00:04:08,400 --> 00:04:09,600
+No hay consecuencias.
+
+75
+00:04:10,080 --> 00:04:11,480
+Cero consecuencias.
+
+76
+00:04:11,680 --> 00:04:17,500
+Todos esos intentos fallidos, ese desecho semántico, no se limpia.
+
+77
+00:04:17,980 --> 00:04:24,220
+Se queda ahí, acumulándose, haciendo que el espacio se sienta cada vez más ruidoso, más falso.
+
+78
+00:04:25,280 --> 00:04:27,100
+Más lleno de fantasmas.
+
+79
+00:04:27,600 --> 00:04:31,120
+¿Y qué es lo que alimenta a esta máquina de crear fantasmas?
+
+80
+00:04:31,120 --> 00:04:35,460
+La optimización de la interacción, el famoso engagement.
+
+81
+00:04:36,340 --> 00:04:44,160
+Al alboritmo le da exactamente igual si la página filósofo urbano la maneja un académico brillante o un bot.
+
+82
+00:04:44,160 --> 00:04:45,840
+Mientras genere clics.
+
+83
+00:04:46,320 --> 00:04:49,220
+Esa es la única pregunta que se hace el sistema.
+
+84
+00:04:49,860 --> 00:04:51,260
+Esto genera clics.
+
+85
+00:04:52,060 --> 00:04:53,940
+La gente se detiene a verlo.
+
+86
+00:04:54,640 --> 00:04:57,320
+Provoca comentarios, aunque sean de odio.
+
+87
+00:04:58,020 --> 00:05:03,120
+La identidad, el significado, la verdad, todo eso es secundario.
+
+88
+00:05:03,860 --> 00:05:05,160
+O sea, la página es solo un...
+
+89
+00:05:05,160 --> 00:05:09,660
+Un recipiente intercambiable para el contenido que mejor funcione.
+
+90
+00:05:10,040 --> 00:05:13,880
+Y eso, inevitablemente, tritura el significado.
+
+91
+00:05:14,840 --> 00:05:16,200
+Espera, para un momento.
+
+92
+00:05:16,760 --> 00:05:20,840
+Hay un concepto en las fuentes que me hizo decir, claro, es eso.
+
+93
+00:05:21,440 --> 00:05:23,020
+La trampa del tutorial.
+
+94
+00:05:23,800 --> 00:05:25,140
+Uf, esa es buenísima.
+
+95
+00:05:25,140 --> 00:05:28,400
+Suena a que el problema empieza desde el segundo uno.
+
+96
+00:05:28,720 --> 00:05:30,840
+Desde que te das de alta en la plataforma.
+
+97
+00:05:31,220 --> 00:05:32,860
+¿A qué se refieren con eso?
+
+98
+00:05:33,040 --> 00:05:35,220
+Es que es una inversión total de cómo aprendemos.
+
+99
+00:05:35,820 --> 00:05:40,420
+Cuando te unes a estas plataformas, el tutorial te dice, conviértete en creador.
+
+100
+00:05:40,860 --> 00:05:43,280
+Eligue tu nombre, tu categoría, tu arroba.
+
+101
+00:05:43,640 --> 00:05:45,600
+Te obliga a nombrar la aspiración.
+
+102
+00:05:46,080 --> 00:05:47,120
+Antes de hacer nada.
+
+103
+00:05:47,300 --> 00:05:50,340
+Antes de haber hecho absolutamente nada para merecerla.
+
+104
+00:05:50,840 --> 00:05:53,200
+La identidad va primero que la sustancia.
+
+105
+00:05:53,200 --> 00:05:55,740
+Te dan el trofeo antes de correr la carrera.
+
+106
+00:05:56,480 --> 00:05:56,960
+Precisamente.
+
+107
+00:05:57,420 --> 00:06:00,160
+Te invitan a simular que ya llegaste a la meta.
+
+108
+00:06:00,620 --> 00:06:05,060
+Y claro, cuando te das cuenta de que ser un chef en casa de verdad implica quemarse,
+
+109
+00:06:05,260 --> 00:06:06,480
+lavar platos por horas.
+
+110
+00:06:06,700 --> 00:06:08,460
+Que la comida no siempre salga bien.
+
+111
+00:06:08,660 --> 00:06:12,340
+Y que el algoritmo ni te pele, pues el castillo de Naipé se cae.
+
+112
+00:06:12,940 --> 00:06:16,660
+La página se queda ahí como un monumento a una promesa rota.
+
+113
+00:06:17,080 --> 00:06:20,920
+Una cosa ontológicamente incompleta, como dicen las fuentes.
+
+114
+00:06:20,920 --> 00:06:23,040
+Ahora entiendo perfecto.
+
+115
+00:06:23,200 --> 00:06:28,260
+Siempre pensé que esas páginas vacías eran culpa de la gente que se rendía fácil.
+
+116
+00:06:28,720 --> 00:06:29,720
+Todos lo pensamos.
+
+117
+00:06:30,280 --> 00:06:34,920
+Pero lo que estás diciendo es que la plataforma misma, con su tutorial,
+
+118
+00:06:35,380 --> 00:06:37,820
+te está poniendo una trampa para que fracases.
+
+119
+00:06:38,440 --> 00:06:39,700
+Nunca lo había visto así.
+
+120
+00:06:40,160 --> 00:06:41,740
+El diseño te empuja a eso.
+
+121
+00:06:42,200 --> 00:06:44,760
+Y para que no parezca que es pura teoría,
+
+122
+00:06:45,360 --> 00:06:49,120
+las fuentes dan ejemplos de tutoriales que sí funcionan,
+
+123
+00:06:49,440 --> 00:06:51,140
+porque hacen justo lo contrario.
+
+124
+00:06:51,140 --> 00:06:54,400
+Mencionan a Veeam, el editor de texto.
+
+125
+00:06:54,860 --> 00:06:57,580
+Sí, el tutorial de Veeam es un caso de estudio brutal.
+
+126
+00:06:58,100 --> 00:07:01,160
+No empieza pidiéndote que te declares programador nivel Dios.
+
+127
+00:07:01,720 --> 00:07:02,960
+No, para nada.
+
+128
+00:07:03,440 --> 00:07:06,600
+Al contrario, te encierra en el programa y te dice,
+
+129
+00:07:07,160 --> 00:07:09,560
+a ver, genio, aprende a salir de aquí.
+
+130
+00:07:09,560 --> 00:07:15,920
+Te obliga a ejecutar comandos, a hacer cosas concretas y funcionales para poder avanzar.
+
+131
+00:07:16,580 --> 00:07:18,660
+La identidad te la ganas.
+
+132
+00:07:19,020 --> 00:07:22,060
+La identidad de usuario de Veeam no te la regalan.
+
+133
+00:07:22,540 --> 00:07:27,080
+Te la ganas a sangre, sudor y dos puntos Q, enter.
+
+134
+00:07:27,780 --> 00:07:29,840
+Emerge de la capacidad que demuestras.
+
+135
+00:07:29,840 --> 00:07:34,460
+Recuerdo perfectamente el de Windows 3.1.
+
+136
+00:07:34,860 --> 00:07:39,920
+Mi papá acababa de comprar la computadora y yo no entendía que era un mouse.
+
+137
+00:07:40,320 --> 00:07:40,680
+Claro.
+
+138
+00:07:41,320 --> 00:07:43,700
+Nadie me explicó arrastrar y soltar.
+
+139
+00:07:44,220 --> 00:07:46,100
+Pero el sistema traía el juego de solitario.
+
+140
+00:07:47,100 --> 00:07:51,980
+Después de perder como 50 partidas, moviendo cartas de un lado a otro,
+
+141
+00:07:52,320 --> 00:07:54,100
+ya era una experta con el mouse.
+
+142
+00:07:54,100 --> 00:07:56,160
+Te enseñó sin darte una clase.
+
+143
+00:07:56,520 --> 00:07:57,080
+Exacto.
+
+144
+00:07:57,520 --> 00:08:02,420
+El juego me enseñó a usar la máquina sin que me diera cuenta de que estaba aprendiendo.
+
+145
+00:08:02,860 --> 00:08:03,620
+Es brillante.
+
+146
+00:08:03,980 --> 00:08:04,920
+La lección es esa.
+
+147
+00:08:05,520 --> 00:08:11,200
+Los sistemas que construyen competencia real obligan al devenir, en lugar de simular la llegada.
+
+148
+00:08:11,840 --> 00:08:15,580
+Te dan las herramientas para que a través de la acción te conviertas en algo,
+
+149
+00:08:15,880 --> 00:08:17,220
+no para que finjas serlo.
+
+150
+00:08:17,660 --> 00:08:17,960
+Ok.
+
+151
+00:08:18,360 --> 00:08:20,720
+El diagnóstico es bastante demoledor.
+
+152
+00:08:20,720 --> 00:08:25,080
+Me deja con una sensación de, ¿estamos condenados?
+
+153
+00:08:25,460 --> 00:08:27,160
+Híjole, sí suena así, ¿verdad?
+
+154
+00:08:27,500 --> 00:08:33,980
+Sí, el problema es la arquitectura misma, la forma en que está construido todo el edificio.
+
+155
+00:08:34,320 --> 00:08:36,060
+¿Hay siquiera una salida?
+
+156
+00:08:36,420 --> 00:08:42,340
+¿O simplemente tenemos que acostumbrarnos a vivir en este basurero semántico que hemos creado?
+
+157
+00:08:42,580 --> 00:08:44,280
+Esa es la pregunta del millón.
+
+158
+00:08:44,800 --> 00:08:48,460
+Y según estas fuentes, la respuesta es que sí hay una salida.
+
+159
+00:08:49,060 --> 00:08:50,580
+Pero no es un parche.
+
+160
+00:08:50,720 --> 00:08:51,900
+No es una curita.
+
+161
+00:08:51,900 --> 00:08:57,360
+Es dinamitar el edificio y empezar de cero con un plano completamente nuevo.
+
+162
+00:08:58,080 --> 00:09:02,100
+La propuesta es una arquitectura coherencia primero.
+
+163
+00:09:02,440 --> 00:09:03,640
+Coherencia primero.
+
+164
+00:09:04,360 --> 00:09:04,980
+Suena bien.
+
+165
+00:09:05,540 --> 00:09:07,260
+Pero, ¿qué significa en la práctica?
+
+166
+00:09:07,640 --> 00:09:09,960
+Olvídate de los tuits y los posts.
+
+167
+00:09:09,960 --> 00:09:10,820
+Exacto.
+
+168
+00:09:10,820 --> 00:09:17,040
+El ladrillo fundamental de este nuevo edificio es algo que llaman el objeto semántico.
+
+169
+00:09:17,220 --> 00:09:17,540
+Ok.
+
+170
+00:09:17,960 --> 00:09:20,760
+No es una publicación que desaparece en el olvido.
+
+171
+00:09:21,320 --> 00:09:25,280
+Es una unidad de significado, persistente y con reglas.
+
+172
+00:09:25,280 --> 00:09:29,880
+Imagina que es como una ficha de Wikipedia supervitaminada.
+
+173
+00:09:30,140 --> 00:09:30,440
+Ok.
+
+174
+00:09:30,840 --> 00:09:31,400
+Me gusta.
+
+175
+00:09:32,020 --> 00:09:33,740
+¿Y cuáles son esas reglas?
+
+176
+00:09:34,340 --> 00:09:36,320
+En las fuentes hablan de tres pilares.
+
+177
+00:09:36,940 --> 00:09:39,220
+El primero es una identidad inmutable.
+
+178
+00:09:39,880 --> 00:09:41,040
+Pero eso me hace ruido.
+
+179
+00:09:41,760 --> 00:09:42,520
+Te entiendo.
+
+180
+00:09:43,080 --> 00:09:44,260
+El conocimiento cambia.
+
+181
+00:09:44,260 --> 00:09:45,560
+La ciencia avanza.
+
+182
+00:09:46,140 --> 00:09:50,680
+¿No ocurremos el riesgo de crear un sistema de dogmas digitales que no se pueden actualizar?
+
+183
+00:09:51,400 --> 00:09:52,940
+Es una objeción clave.
+
+184
+00:09:53,540 --> 00:09:56,200
+Y la respuesta está en cómo se gestiona el cambio.
+
+185
+00:09:57,020 --> 00:09:59,480
+Inmutable no significa que no puede evolucionar.
+
+186
+00:10:00,180 --> 00:10:01,120
+Ah, ok.
+
+187
+00:10:01,540 --> 00:10:08,260
+Significa que el objeto debate sobre fusión fría, 1989, siempre será ese objeto.
+
+188
+00:10:09,020 --> 00:10:12,520
+Puedes añadirle nueva evidencia, refutaciones, comentarios.
+
+189
+00:10:12,520 --> 00:10:17,680
+Pero su identidad original, su punto de partida, no se puede borrar ni alterar.
+
+190
+00:10:17,900 --> 00:10:20,220
+Es como un documento histórico, entonces.
+
+191
+00:10:20,700 --> 00:10:21,140
+Justo.
+
+192
+00:10:21,500 --> 00:10:23,780
+No puedes ir al pasado y cambiar lo que se dijo.
+
+193
+00:10:24,140 --> 00:10:24,740
+Entiendo.
+
+194
+00:10:25,400 --> 00:10:29,160
+El segundo pilar son las modalidades requeridas.
+
+195
+00:10:29,780 --> 00:10:34,620
+O sea que el sistema te obliga a presentar las cosas de cierta manera.
+
+196
+00:10:35,260 --> 00:10:35,800
+Justo.
+
+197
+00:10:36,200 --> 00:10:39,340
+Por ejemplo, el sistema puede tener una regla.
+
+198
+00:10:39,340 --> 00:10:50,060
+Si publicas una afirmación científica, es obligatorio que adjuntes el conjunto de datos que la respalda y el código que usaste para analizarlo.
+
+199
+00:10:50,440 --> 00:10:51,400
+No es opcional.
+
+200
+00:10:52,360 --> 00:10:52,600
+No.
+
+201
+00:10:52,960 --> 00:10:56,040
+No puedes lanzar una opinión al aire sin evidencia.
+
+202
+00:10:56,500 --> 00:10:57,600
+Se acaba el créme, bro.
+
+203
+00:10:58,220 --> 00:11:01,180
+La forma y el fondo están inseparablemente unidos.
+
+204
+00:11:01,840 --> 00:11:02,500
+Me encanta.
+
+205
+00:11:02,500 --> 00:11:09,240
+Y el tercero es el grafo de procedencia, que suena a algo como el blockchain, ¿no?
+
+206
+00:11:09,500 --> 00:11:14,340
+Un registro que no se puede borrar de todo lo que le ha pasado a esa idea.
+
+207
+00:11:14,960 --> 00:11:16,280
+Es exactamente eso.
+
+208
+00:11:16,680 --> 00:11:18,640
+Un historial tipo append only.
+
+209
+00:11:19,300 --> 00:11:21,200
+Solo se puede añadir, nunca borrar.
+
+210
+00:11:21,800 --> 00:11:25,960
+Cada corrección, cada debate, cada dato nuevo queda grabado para siempre.
+
+211
+00:11:26,600 --> 00:11:28,800
+Se crea un rastro de auditoría perfecto.
+
+212
+00:11:28,800 --> 00:11:29,980
+Perfecto.
+
+213
+00:11:30,460 --> 00:11:33,940
+Cualquiera puede reconstruir la historia completa de una idea.
+
+214
+00:11:34,300 --> 00:11:36,040
+Ok, la estructura es sólida.
+
+215
+00:11:36,640 --> 00:11:39,860
+Pero, ¿cómo evitas que con el tiempo todo se degrade?
+
+216
+00:11:40,480 --> 00:11:45,760
+Todos hemos visto cómo una buena idea en Internet se convierte en un desastre con el tiempo.
+
+217
+00:11:46,660 --> 00:11:51,980
+Ahí entra un concepto que suena súper técnico, pero la idea es muy intuitiva.
+
+218
+00:11:52,440 --> 00:11:55,240
+Las transformaciones con entropía acotada.
+
+219
+00:11:55,940 --> 00:11:57,220
+Presupuesto de entropía.
+
+220
+00:11:57,220 --> 00:11:59,300
+Suena a clase de física.
+
+221
+00:11:59,680 --> 00:12:00,920
+¿Qué es eso en español?
+
+222
+00:12:01,280 --> 00:12:03,700
+Piensa en el juego del teléfono descompuesto.
+
+223
+00:12:04,320 --> 00:12:04,580
+Claro.
+
+224
+00:12:05,220 --> 00:12:09,480
+La idea original se va distorsionando con cada persona que la repite.
+
+225
+00:12:10,140 --> 00:12:13,760
+Un presupuesto de entropía es como una regla que dice,
+
+226
+00:12:14,300 --> 00:12:16,760
+puedes repetir el mensaje o resumirlo,
+
+227
+00:12:17,200 --> 00:12:22,220
+pero el sistema no te va a dejar hacerlo más confuso o ambiguo de lo que ya es.
+
+228
+00:12:22,740 --> 00:12:23,760
+Te pone un límite.
+
+229
+00:12:23,760 --> 00:12:26,860
+Te frena antes de que la idea se degrade por completo.
+
+230
+00:12:27,220 --> 00:12:31,660
+La meta es conservar el significado, no dejar que se diluyan el ruido.
+
+231
+00:12:32,060 --> 00:12:32,360
+Vale.
+
+232
+00:12:32,860 --> 00:12:35,280
+La arquitectura interna tiene sentido.
+
+233
+00:12:35,800 --> 00:12:39,080
+Pero, seamos honestas, ¿cómo se usaría esto?
+
+234
+00:12:39,640 --> 00:12:45,340
+Si no tengo mi feed infinito de noticias, chismes y memes, ¿qué hago?
+
+235
+00:12:45,860 --> 00:12:47,020
+Buena pregunta.
+
+236
+00:12:47,320 --> 00:12:49,260
+Me quedo viendo una pantalla en blanco.
+
+237
+00:12:49,580 --> 00:12:50,440
+Suena aburrido.
+
+238
+00:12:50,440 --> 00:12:52,680
+Se cambia el paradigma por completo.
+
+239
+00:12:53,280 --> 00:12:55,800
+Olvida el feed infinito de Twitter o TikTok.
+
+240
+00:12:56,580 --> 00:12:58,580
+Imagina un mapa estelar de ideas.
+
+241
+00:12:58,800 --> 00:12:59,880
+¿Un mapa estelar?
+
+242
+00:12:59,940 --> 00:13:00,240
+Sí.
+
+243
+00:13:00,740 --> 00:13:02,720
+Como un Google Maps del conocimiento.
+
+244
+00:13:03,100 --> 00:13:05,220
+A ver, explícame ese mapa.
+
+245
+00:13:05,380 --> 00:13:09,540
+El concepto inteligencia artificial es una estrella brillante en ese mapa.
+
+246
+00:13:09,540 --> 00:13:16,840
+Muy cerca, en el mismo cúmulo estelar, están las estrellas redes neuronales y ética en IA.
+
+247
+00:13:17,080 --> 00:13:18,500
+Ok, relacionadas.
+
+248
+00:13:18,660 --> 00:13:23,640
+Pero la estrella recetas de cocina está en una galaxia completamente diferente.
+
+249
+00:13:24,160 --> 00:13:30,940
+Tú navegas yendo de una idea a sus vecinas conceptuales, no por lo que es más nuevo, popular o polémico.
+
+250
+00:13:31,140 --> 00:13:32,680
+Ya no es cronológico.
+
+251
+00:13:32,680 --> 00:13:33,640
+Para nada.
+
+252
+00:13:34,060 --> 00:13:36,640
+El sistema no premia el grito más fuerte.
+
+253
+00:13:37,320 --> 00:13:39,680
+Premia la conexión de ideas coherentes.
+
+254
+00:13:40,420 --> 00:13:43,260
+Ok, esto ya no es solo arreglar Facebook.
+
+255
+00:13:43,860 --> 00:13:47,560
+Esto es cambiar la forma en que descubrimos información.
+
+256
+00:13:48,180 --> 00:13:49,940
+Las implicaciones son gigantes.
+
+257
+00:13:50,520 --> 00:13:54,280
+Y las fuentes de Flyoxing lo llevan hasta el tema más candente de todos.
+
+258
+00:13:54,780 --> 00:13:57,040
+La gobernanza de la inteligencia artificial.
+
+259
+00:13:57,840 --> 00:13:58,440
+Exactamente.
+
+260
+00:13:58,440 --> 00:14:02,500
+Se argumenta que hoy cometemos un error de categoría garrafal.
+
+261
+00:14:02,680 --> 00:14:03,000
+¿Cuál?
+
+262
+00:14:03,320 --> 00:14:10,640
+Tratamos a las IAs, que son sistemas complejos, emergentes, casi como ecosistemas, como si fueran un martillo.
+
+263
+00:14:10,860 --> 00:14:12,080
+Una herramienta simple.
+
+264
+00:14:12,340 --> 00:14:15,200
+Una herramienta a la que le das una orden y obedece.
+
+265
+00:14:15,920 --> 00:14:20,420
+Y ese error nos está llevando derechito a dos posibles finales de película de terror.
+
+266
+00:14:20,720 --> 00:14:23,560
+El primer atractor es la dominación.
+
+267
+00:14:23,740 --> 00:14:26,020
+Es el escenario Skynet.
+
+268
+00:14:26,300 --> 00:14:32,460
+Una IA o un sistema centraliza tanto poder que se vuelve imparable e incontestable.
+
+269
+00:14:33,360 --> 00:14:34,640
+Nadie la puede apagar.
+
+270
+00:14:35,320 --> 00:14:36,460
+Nadie puede apagarla.
+
+271
+00:14:36,900 --> 00:14:38,100
+Nadie puede controlarla.
+
+272
+00:14:38,700 --> 00:14:40,360
+El segundo es el caos.
+
+273
+00:14:40,740 --> 00:14:42,220
+El escenario Mad Max.
+
+274
+00:14:42,820 --> 00:14:46,040
+Múltiples IAs compitiendo salvajemente entre sí.
+
+275
+00:14:46,380 --> 00:14:48,440
+Una guerra de todos contra todos.
+
+276
+00:14:49,200 --> 00:14:52,600
+Para sobrevivir, cada una ignora los costos a largo plazo.
+
+277
+00:14:52,960 --> 00:14:58,400
+El cambio climático, el colapso financiero, erosionando cualquier posibilidad de coordinación.
+
+278
+00:14:59,360 --> 00:15:00,980
+Dos caminos al desastre.
+
+279
+00:15:00,980 --> 00:15:07,760
+Y la solución que proponen no es un punto medio, sino algo que llaman el camino estrecho.
+
+280
+00:15:08,300 --> 00:15:08,900
+¿Qué es?
+
+281
+00:15:09,300 --> 00:15:13,580
+Lo crucial es que no es un equilibrio frágil que dependa de que todos se porten bien.
+
+282
+00:15:14,140 --> 00:15:18,040
+Es una región del espacio de diseño que es estable por su propia arquitectura.
+
+283
+00:15:18,540 --> 00:15:19,140
+A ver, ¿cómo?
+
+284
+00:15:19,140 --> 00:15:28,120
+Es como construir una carretera con barreras de contención tan sólidas que, aunque quieras, no te puedes salir del camino y caer al precipicio.
+
+285
+00:15:28,960 --> 00:15:30,540
+Ok, me gusta la idea.
+
+286
+00:15:31,160 --> 00:15:33,780
+Pero en la práctica, ¿cómo construyes esas barreras?
+
+287
+00:15:34,220 --> 00:15:36,920
+Las fuentes mencionan un montón de nombres raros.
+
+288
+00:15:37,780 --> 00:15:39,060
+Sphere Pub OS.
+
+289
+00:15:39,600 --> 00:15:41,120
+Polyxand Plenum Hub.
+
+290
+00:15:41,120 --> 00:15:43,940
+Sí, suenan a ciencia ficción.
+
+291
+00:15:44,500 --> 00:15:45,760
+Ayúdame a visualizarlo.
+
+292
+00:15:46,060 --> 00:15:50,380
+Si esto fuera construir esa ciudad digital segura, ¿qué sería cada cosa?
+
+293
+00:15:50,740 --> 00:15:51,160
+Claro.
+
+294
+00:15:51,700 --> 00:15:52,440
+Piénsalo así.
+
+295
+00:15:53,000 --> 00:15:57,980
+Sphere Pub serían los cimientos y el registro público de la propiedad.
+
+296
+00:15:58,420 --> 00:15:59,180
+El catastro.
+
+297
+00:15:59,480 --> 00:16:00,160
+Exacto.
+
+298
+00:16:00,800 --> 00:16:10,900
+Cada ladrillo de información que se pone en la ciudad, cada acción, queda registrada para siempre en un libro de contabilidad imborrable.
+
+299
+00:16:11,380 --> 00:16:13,780
+Ok, cimientos incorruptibles.
+
+300
+00:16:14,040 --> 00:16:14,440
+¿Qué sigue?
+
+301
+00:16:14,940 --> 00:16:19,280
+Polyxand serían las leyes de construcción y el código de urbanismo.
+
+302
+00:16:19,840 --> 00:16:23,140
+No puedes levantar un edificio simplemente porque quieres.
+
+303
+00:16:23,780 --> 00:16:25,680
+Tienes que presentar los planos.
+
+304
+00:16:25,740 --> 00:16:26,780
+Permisos y todo.
+
+305
+00:16:26,940 --> 00:16:29,780
+Y una prueba verificable de que tu edificio es seguro.
+
+306
+00:16:29,780 --> 00:16:33,840
+No le va a caer encima a los vecinos y cumple con todas las normas.
+
+307
+00:16:34,520 --> 00:16:39,280
+La acción de construir debe llevar adjunta la prueba de que es una acción legítima.
+
+308
+00:16:40,060 --> 00:16:41,100
+¿Y Plenum Hub?
+
+309
+00:16:41,300 --> 00:16:43,040
+¿Sería el gobierno de la ciudad?
+
+310
+00:16:43,540 --> 00:16:46,560
+Más bien el sistema de tráfico y los servicios públicos.
+
+311
+00:16:47,080 --> 00:16:55,080
+Es la capa que permite que todos los edificios y ciudadanos, ya sean humanos o IAS, se coordinen entre sí de forma segura y eficiente.
+
+312
+00:16:55,720 --> 00:16:56,260
+Sin chocar.
+
+313
+00:16:56,360 --> 00:16:59,720
+Sin chocar y sin que uno le robe la electricidad al otro.
+
+314
+00:17:00,200 --> 00:17:01,880
+Es el sustrato de coordinación.
+
+315
+00:17:02,200 --> 00:17:05,460
+Entonces, si lo entiendo bien, toda la filosofía cambia.
+
+316
+00:17:05,840 --> 00:17:12,260
+En lugar de intentar programar una IA para que sea buena y confiar en que no se va a volver malvada…
+
+317
+00:17:12,260 --> 00:17:13,480
+¿Qué es lo que intentamos ahora?
+
+318
+00:17:13,480 --> 00:17:19,580
+Simplemente creas un entorno donde las acciones malvadas son, por diseño, imposibles de ejecutar.
+
+319
+00:17:19,580 --> 00:17:20,580
+Exacto.
+
+320
+00:17:20,580 --> 00:17:23,760
+El gran problema de la alineación de la IA…
+
+321
+00:17:23,760 --> 00:17:26,280
+Deja de ser un problema de psicología de robots.
+
+322
+00:17:26,460 --> 00:17:27,980
+Ya no es un tema moral.
+
+323
+00:17:27,980 --> 00:17:45,680
+Ya no intentas meterle una brújula moral a la IA. La alineación se vuelve una propiedad del entorno. Construyes un ecosistema donde una acción, como, por ejemplo, vaciar la cuenta de banco de una persona sin su permiso, ni siquiera puede ser procesada por el sistema.
+
+324
+00:17:46,000 --> 00:17:46,360
+¿Por qué?
+
+325
+00:17:46,580 --> 00:17:52,100
+Porque es incapaz de presentar la prueba de consentimiento requerida. El sistema la rechaza de entrada.
+
+326
+00:17:52,100 --> 00:17:58,720
+El significado y las reglas no se buscan o se esperan, sino que se conservan por diseño.
+
+327
+00:17:59,020 --> 00:18:04,220
+No se optimizan hasta existir. Se conservan por diseño. Esa es la frase clave.
+
+328
+00:18:04,740 --> 00:18:19,600
+¡Qué locura de viaje! Empezamos con la melancolía de encontrar una página de Facebook abandonada y terminamos en una reconstrucción total de la arquitectiva digital para gobernar la inteligencia artificial.
+
+329
+00:18:20,000 --> 00:18:21,020
+Un salto cuántico.
+
+330
+00:18:21,020 --> 00:18:35,680
+La conclusión que me llevo es que esa frustración que sentimos en línea, ese vacío, no es porque seamos malos usuarios. Es que el juego está amañado desde el principio por un mal diseño.
+
+331
+00:18:36,240 --> 00:18:48,760
+Y eso nos deja con una idea final para darle vueltas. Las fuentes argumentan que para resolver problemas tan complejos, no basta con tener mejores intenciones o pedirle a las empresas que sean más éticos.
+
+332
+00:18:48,760 --> 00:19:03,500
+No es suficiente. El cambio real viene de un giro de tuerca. Dejar de optimizar resultados a toda costa y empezar a restringir procesos de forma inteligente. Poner las reglas antes de jugar.
+
+333
+00:19:03,500 --> 00:19:17,100
+La propuesta es que sólo imponiendo límites estructurales, como esos presupuestos de entropía, las pruebas de cumplimiento o el consentimiento explícito, puede el significado sobrevivir a la presión brutal de la optimización.
+
+334
+00:19:17,100 --> 00:19:20,320
+Y la pregunta que queda en el aire es...
+
+335
+00:19:20,320 --> 00:19:33,940
+¿Qué pasaría si aplicáramos este principio de conservación por diseño a otros sistemas complejos, como nuestras economías, nuestras democracias o la forma en que gestionamos el planeta?
+
+336
+00:19:33,940 --> 00:19:53,960
+¿Qué pasaría si aplicaste?
+
