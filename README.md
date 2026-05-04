@@ -1,5 +1,8 @@
 # Antivenom
 
+[Structural Inversion Series](https://github.com/standardgalactic/antivenom/blob/main/boundaries/README.md)
+
+
 [The Quiet Battlefield](https://standardgalactic.github.io/antivenom/quiet_battlefield.pdf)
 
 [Trajectory and Residue](https://standardgalactic.github.io/antivenom/projects/constraint_closure-5.pdf) — *On Bullshit Jobs*
