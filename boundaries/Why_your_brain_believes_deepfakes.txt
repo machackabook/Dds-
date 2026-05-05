@@ -17,7 +17,7 @@ What if the problem isn't actually your eyes, but the very architecture of your 
 Yeah, what if the vulnerability we're facing with synthetic media
 isn't a lack of media literacy, but our fundamental biological cognition?
 So our mission today for this deep dive is to get into this really dense,
-just completely fascinating May 2026 paper by an independent researcher named Flixium.
+just completely fascinating May 2026 paper by an independent researcher named Flyxion.
 It's titled Synthetic Reification and Epistemic Constraint Deformation,
 which I know is a mouthful.
 It is a total mouthful.
